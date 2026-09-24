@@ -1,0 +1,2 @@
+# WindowsTraffic-Monitor
+适用于windows流量监控软件，可提供每日剩余流量技术和当日流量统计以及每月限额
